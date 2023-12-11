@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiderhm&label=Profile%20views&color=0e75b6&style=flat" alt="jaiderhm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaiderhm" alt="jaiderhm" /></a> </p>
 
 - 🤝 I’m looking for help with **Javascript, React, CSS, HTML, EXPRESS, MONGO DB**
 
