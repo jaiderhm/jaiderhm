@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50">, I'm Jaider Herrera Mora.</h1>
 
 <h3 align="center">A passionate developer web full stack from Colombia</h3>
-<h3 align="center">Desarrollador Web | JavaScript | Node.js | Express | GitHub | React | MongoDB | Frontend | Backend | HTML | CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiderhm&label=Profile%20views&color=0e75b6&style=flat" alt="jaiderhm" /> </p>
 
