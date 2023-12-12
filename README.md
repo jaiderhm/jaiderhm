@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaider Herrera Mora</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50">, I'm Jaider Herrera Mora.</h1>
 
 <h1> A little more about me... </h1>
 <h1> A passionate web fullstack developer from Colombia. </h1>
