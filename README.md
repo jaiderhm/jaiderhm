@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaider Herrera Mora</h1>
+
+<h1> A little more about me... </h1>
+<h1> A passionate web fullstack developer from Colombia. </h1>
 <h3 align="center">Desarrollador Web | JavaScript | Node.js | Express | GitHub | React | MongoDB | Frontend | Backend | HTML | CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiderhm&label=Profile%20views&color=0e75b6&style=flat" alt="jaiderhm" /> </p>
